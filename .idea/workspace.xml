@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc12757d-5e30-48f2-8c08-a4952cef56bc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-333432433">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.145" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Boss" value="1" />
+          <entry key="abstractfactory" value="2" />
+          <entry key="abstractfactorypattern" value="1" />
+          <entry key="factorymethod" value="2" />
+          <entry key="java" value="34" />
+          <entry key="v1" value="2" />
+          <entry key="v2" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="34" />
+          <entry key="UML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="82" />
+          <entry key="java" value="2796" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2796" />
+          <entry key="PLAIN_TEXT" value="82" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/singleton/LazySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/singleton/LazyDoubleCheckSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/AirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/haierAirConditioner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/Factory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/HaierTvFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/TvFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/Tv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/HaierTv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/XiaoMiTv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/XiaoMiTvFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/Phone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/PhoneFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/HuaWeiPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/factorymethod/XiaoMiPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactorypattern/HuaWeiPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactorypattern/Computer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactorypattern/HuaWeiComputer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactorypattern/XiaoMiComputer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactorypattern/Factory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactorypattern/HuaWeiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactorypattern/XiaoMiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactorypattern/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/abstractfactory/XiaoMiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/XiaoMiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Buider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/PhoneBuider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Designer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Boss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Phone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/PhoneBuilderImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v2/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v2/Phone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v2/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/singleton/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/singleton/LazyDoubleCheckSingleton.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/JAVA/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\JAVA\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="597" />
+    <option name="y" value="98" />
+    <option name="width" value="1011" />
+    <option name="height" value="496" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544695853932" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/uml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.study.designpattern.creational" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaWorkSpace\designpattern\src\main\java\com\study\designpattern\abstractfactorypattern" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Boss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.designpattern.creational.builder.v1.Boss" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.designpattern.creational.builder.v1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.designpattern.creational.builder.v2.Test" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.designpattern.creational.builder.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.designpattern.creational.factorymethod.Test" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.designpattern.creational.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.designpattern.creational.abstractfactory.Test" />
+      <module name="designpattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.designpattern.creational.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Boss" />
+      <item itemvalue="Application.Test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Boss" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc12757d-5e30-48f2-8c08-a4952cef56bc" name="Default Changelist" comment="" />
+      <created>1544594562176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544594562176</updated>
+      <workItem from="1544594568659" duration="6845000" />
+      <workItem from="1544664525970" duration="10667000" />
+      <workItem from="1544685229719" duration="9655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27167000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28139183" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24262296" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/factorymethod/XiaoMiPhoneFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/factorymethod/HuaWeiPhoneFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/factorymethod/HuaWeiPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/factorymethod/XiaoMiPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.study.designpattern.factorymethod">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.study.designpattern.factorymethod</OriginalElement>
+          <nodes>
+            <node x="0.0" y="304.0">com.study.designpattern.factorymethod.XiaoMiPhone</node>
+            <node x="74.5" y="201.0">com.study.designpattern.factorymethod.Phone</node>
+            <node x="187.0" y="103.0">com.study.designpattern.factorymethod.HuaWeiPhoneFactory</node>
+            <node x="95.5" y="0.0">com.study.designpattern.factorymethod.PhoneFactory</node>
+            <node x="149.0" y="304.0">com.study.designpattern.factorymethod.HuaWeiPhone</node>
+            <node x="0.0" y="402.0">com.study.designpattern.factorymethod.Test</node>
+            <node x="0.0" y="103.0">com.study.designpattern.factorymethod.XiaoMiPhoneFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.study.designpattern.factorymethod.XiaoMiPhone" target="com.study.designpattern.factorymethod.Phone">
+              <point x="0.0" y="-26.5" />
+              <point x="64.5" y="279.0" />
+              <point x="106.75" y="279.0" />
+              <point x="-32.25" y="26.5" />
+            </edge>
+            <edge source="com.study.designpattern.factorymethod.XiaoMiPhoneFactory" target="com.study.designpattern.factorymethod.PhoneFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="83.5" y="78.0" />
+              <point x="136.75" y="78.0" />
+              <point x="-41.25" y="26.5" />
+            </edge>
+            <edge source="com.study.designpattern.factorymethod.HuaWeiPhone" target="com.study.designpattern.factorymethod.Phone">
+              <point x="0.0" y="-26.5" />
+              <point x="213.5" y="279.0" />
+              <point x="171.25" y="279.0" />
+              <point x="32.25" y="26.5" />
+            </edge>
+            <edge source="com.study.designpattern.factorymethod.HuaWeiPhoneFactory" target="com.study.designpattern.factorymethod.PhoneFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="272.5" y="78.0" />
+              <point x="219.25" y="78.0" />
+              <point x="41.25" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-256.0" y="233.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/Phone.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/com.study.designpattern.abstractfactorypattern">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.study.designpattern.abstractfactorypattern</OriginalElement>
+          <nodes>
+            <node x="0.0" y="551.0">com.study.designpattern.abstractfactorypattern.HuaWeiPhone</node>
+            <node x="0.0" y="126.0">com.study.designpattern.abstractfactorypattern.XiaoMiFactory</node>
+            <node x="93.5" y="247.0">com.study.designpattern.abstractfactorypattern.Computer</node>
+            <node x="132.5" y="0.0">com.study.designpattern.abstractfactorypattern.Factory</node>
+            <node x="74.5" y="448.0">com.study.designpattern.abstractfactorypattern.Phone</node>
+            <node x="0.0" y="350.0">com.study.designpattern.abstractfactorypattern.XiaoMiComputer</node>
+            <node x="167.0" y="350.0">com.study.designpattern.abstractfactorypattern.HuaWeiComputer</node>
+            <node x="265.0" y="126.0">com.study.designpattern.abstractfactorypattern.HuaWeiFactory</node>
+            <node x="149.0" y="551.0">com.study.designpattern.abstractfactorypattern.XiaoMiPhone</node>
+            <node x="323.0" y="448.0">com.study.designpattern.abstractfactorypattern.Test</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.study.designpattern.abstractfactorypattern.XiaoMiFactory" target="com.study.designpattern.abstractfactorypattern.Factory">
+              <point x="0.0" y="-38.0" />
+              <point x="122.5" y="101.0" />
+              <point x="193.75" y="101.0" />
+              <point x="-61.25" y="38.0" />
+            </edge>
+            <edge source="com.study.designpattern.abstractfactorypattern.HuaWeiFactory" target="com.study.designpattern.abstractfactorypattern.Factory">
+              <point x="0.0" y="-38.0" />
+              <point x="387.5" y="101.0" />
+              <point x="316.25" y="101.0" />
+              <point x="61.25" y="38.0" />
+            </edge>
+            <edge source="com.study.designpattern.abstractfactorypattern.HuaWeiPhone" target="com.study.designpattern.abstractfactorypattern.Phone">
+              <point x="0.0" y="-26.5" />
+              <point x="64.5" y="526.0" />
+              <point x="106.75" y="526.0" />
+              <point x="-32.25" y="26.5" />
+            </edge>
+            <edge source="com.study.designpattern.abstractfactorypattern.XiaoMiComputer" target="com.study.designpattern.abstractfactorypattern.Computer">
+              <point x="0.0" y="-26.5" />
+              <point x="73.5" y="325.0" />
+              <point x="125.75" y="325.0" />
+              <point x="-32.25" y="26.5" />
+            </edge>
+            <edge source="com.study.designpattern.abstractfactorypattern.HuaWeiComputer" target="com.study.designpattern.abstractfactorypattern.Computer">
+              <point x="0.0" y="-26.5" />
+              <point x="242.5" y="325.0" />
+              <point x="190.25" y="325.0" />
+              <point x="32.25" y="26.5" />
+            </edge>
+            <edge source="com.study.designpattern.abstractfactorypattern.XiaoMiPhone" target="com.study.designpattern.abstractfactorypattern.Phone">
+              <point x="0.0" y="-26.5" />
+              <point x="213.5" y="526.0" />
+              <point x="171.25" y="526.0" />
+              <point x="32.25" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9942307692307694" x="107.0" y="295.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/XiaoMiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/XiaoMiPhone.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/HuaWeiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/HuaWeiComputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/XiaoMiComputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/abstractfactory/HuaWeiPhone.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/factorymethod/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/factorymethod/PhoneFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/factorymethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Battery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/PhoneBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Designer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/PhoneBuilderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.study.designpattern.creational.builder.v1.Boss">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.study.designpattern.creational.builder.v1.Boss</OriginalElement>
+          <nodes>
+            <node x="" y="">com.study.designpattern.creational.builder.v1.Boss</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="38.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v1/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.study.designpattern.creational.abstractfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.study.designpattern.creational.abstractfactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.Phone</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.XiaoMiComputer</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.HuaWeiComputer</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.XiaoMiFactory</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.HuaWeiFactory</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.Computer</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.HuaWeiPhone</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.Factory</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.XiaoMiPhone</node>
+            <node x="" y="">com.study.designpattern.creational.abstractfactory.Test</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="255.0" y="209.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.study.designpattern.creational.factorymethod">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.study.designpattern.creational.factorymethod</OriginalElement>
+          <nodes>
+            <node x="" y="">com.study.designpattern.creational.factorymethod.HuaWeiPhoneFactory</node>
+            <node x="" y="">com.study.designpattern.creational.factorymethod.XiaoMiPhone</node>
+            <node x="" y="">com.study.designpattern.creational.factorymethod.PhoneFactory</node>
+            <node x="" y="">com.study.designpattern.creational.factorymethod.HuaWeiPhone</node>
+            <node x="" y="">com.study.designpattern.creational.factorymethod.Test</node>
+            <node x="" y="">com.study.designpattern.creational.factorymethod.XiaoMiPhoneFactory</node>
+            <node x="" y="">com.study.designpattern.creational.factorymethod.Phone</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="179.0" y="170.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.study.designpattern.creational.builder.v1">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.study.designpattern.creational.builder.v1</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.study.designpattern.creational.builder.v1.PhoneBuilder</node>
+            <node x="224.0" y="0.0">com.study.designpattern.creational.builder.v1.Phone</node>
+            <node x="220.0" y="393.0">com.study.designpattern.creational.builder.v1.Battery</node>
+            <node x="0.0" y="393.0">com.study.designpattern.creational.builder.v1.Boss</node>
+            <node x="0.0" y="295.0">com.study.designpattern.creational.builder.v1.Designer</node>
+            <node x="0.0" y="150.0">com.study.designpattern.creational.builder.v1.PhoneBuilderImpl</node>
+            <node x="354.0" y="393.0">com.study.designpattern.creational.builder.v1.Screen</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.study.designpattern.creational.builder.v1.PhoneBuilderImpl" target="com.study.designpattern.creational.builder.v1.PhoneBuilder">
+              <point x="0.0" y="-50.0" />
+              <point x="0.0" y="50.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="334.0" y="187.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1175#1176#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1202#1203#0" expanded="true" />
+            <element signature="e#1248#1249#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1951#1952#0" expanded="true" />
+            <element signature="e#1982#1983#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+            <element signature="e#2232#2233#0" expanded="true" />
+            <element signature="e#2263#2264#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1564#1565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.study.designpattern.creational.builder.v2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.study.designpattern.creational.builder.v2</OriginalElement>
+          <nodes>
+            <node x="58.0" y="577.0">com.study.designpattern.creational.builder.v2.Test</node>
+            <node x="49.0" y="0.0">com.study.designpattern.creational.builder.v2.Phone</node>
+            <node x="0.0" y="243.0">com.study.designpattern.creational.builder.v2.Phone.PhoneBuilder</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.study.designpattern.creational.builder.v2.Test" target="com.study.designpattern.creational.builder.v2.Phone.PhoneBuilder">
+              <point x="0.0" y="-26.5" />
+              <point x="0.0" y="142.0" />
+            </edge>
+            <edge source="com.study.designpattern.creational.builder.v2.Phone.PhoneBuilder" target="com.study.designpattern.creational.builder.v2.Phone">
+              <point x="72.75" y="-142.0" />
+              <point x="218.25" y="218.0" />
+              <point x="193.75" y="218.0" />
+              <point x="48.25" y="96.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8584615384615385" x="-344.9121863799283" y="269.5698924731183" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/builder/v2/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1464">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding>
+            <element signature="e#1071#1072#0" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/singleton/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/study/designpattern/creational/singleton/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>designpattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37471265" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
