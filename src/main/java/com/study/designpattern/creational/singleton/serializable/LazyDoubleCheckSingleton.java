@@ -1,10 +1,13 @@
-package com.study.designpattern.creational.singleton;
+package com.study.designpattern.creational.singleton.serializable;
+
+import java.io.Serializable;
 
 /**
  * 双重检查的懒汉模式，线程安全的写法
  * volatile关键字可以禁止线程内重排序
+ * 实现了序列化接口后需要重写readResolve方法防止序列化破坏单例模式
  */
-public class LazyDoubleCheckSingleton {
+public class LazyDoubleCheckSingleton implements Serializable {
     private volatile static LazyDoubleCheckSingleton lazyDoubleCheckSingleton;
     private LazyDoubleCheckSingleton(){
 
@@ -24,6 +27,10 @@ public class LazyDoubleCheckSingleton {
                 }
             }
         }
+        return lazyDoubleCheckSingleton;
+    }
+
+    private Object readResolve(){
         return lazyDoubleCheckSingleton;
     }
 }

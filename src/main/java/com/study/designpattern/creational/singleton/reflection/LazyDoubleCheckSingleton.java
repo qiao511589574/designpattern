@@ -1,13 +1,23 @@
-package com.study.designpattern.creational.singleton;
+package com.study.designpattern.creational.singleton.reflection;
+
+import java.io.Serializable;
 
 /**
  * 双重检查的懒汉模式，线程安全的写法
  * volatile关键字可以禁止线程内重排序
+ * 实现了序列化接口后需要重写readResolve方法防止序列化破坏单例模式
+ *
+ * 反射攻击：（无法防御反射攻击）
+ * 由于懒汉模式是什么时候用什么时候初始化，所以私有构造器中加上非空判断也无法防止反射攻击
+ * 因为无法确定是先创建单例，还是先反射调用
  */
-public class LazyDoubleCheckSingleton {
+public class LazyDoubleCheckSingleton implements Serializable {
     private volatile static LazyDoubleCheckSingleton lazyDoubleCheckSingleton;
     private LazyDoubleCheckSingleton(){
-
+        //只能防止先初始化后反射调用的情况
+        if (lazyDoubleCheckSingleton != null){
+            throw new RuntimeException("懒汉模式被反射攻击");
+        }
     }
 
     public static LazyDoubleCheckSingleton getInstance(){
@@ -24,6 +34,10 @@ public class LazyDoubleCheckSingleton {
                 }
             }
         }
+        return lazyDoubleCheckSingleton;
+    }
+
+    private Object readResolve(){
         return lazyDoubleCheckSingleton;
     }
 }
