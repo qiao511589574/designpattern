@@ -30,7 +30,7 @@ public class LazySingleton implements Serializable {
         }
         return lazySingleton;
     }
-
+    //防止序列化破坏
     private Object readResolve(){
         return lazySingleton;
     }

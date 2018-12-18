@@ -37,6 +37,7 @@ public class LazyDoubleCheckSingleton implements Serializable {
         return lazyDoubleCheckSingleton;
     }
 
+    //防止序列化破坏
     private Object readResolve(){
         return lazyDoubleCheckSingleton;
     }
